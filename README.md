@@ -17,5 +17,6 @@
    - Stored repository details (e.g., `full_name`, `created_at`, `stargazers_count`, `language`, `license_name`) in `repositories.csv`.
 
 ## 2. The most interesting and surprising fact I found after analyzing the data: 
+The most surprising fact I found after analyzing the data was that 85% of the total users had wiki.
 
 ## 3. An actionable recommendation for developers based on my analysis:
