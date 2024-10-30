@@ -21,5 +21,5 @@ The most surprising fact I found after analyzing the data was that 85% of the to
 
 ## 3. An actionable recommendation for developers based on my analysis
 Based on my analysis, actionable recommendations are as follows:
-1. Maintain more public repositories. Successful developers average 110.3 public repositories, compared to 90.6 for others.
+1. Maintain more public repositories. Successful developers average 110 public repositories, compared to 90 for others.
 2. Focus on high-impact languages. Top languages among successful developers are: JavaScript, Python, Ruby, Shell, HTML
