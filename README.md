@@ -18,10 +18,12 @@
 
 ## 2. The most interesting and surprising fact I found after analyzing the data 📊
 The most surprising fact I found after analyzing the data was that 85% of the total users had a wiki, which was unexpected because I thought a lot of people don't maintain a wiki.  
-![image](https://github.com/user-attachments/assets/b60c443c-d9e2-4a29-9e19-dab402753563)
 
 
 ## 3. An actionable recommendation for developers based on my analysis 🦾
 Based on my analysis, actionable recommendations are as follows:
 1. Maintain more meaningful public repositories. Successful developers average 110 public repositories, compared to 90 for others.
 2. Focus on high-impact languages. Top languages among successful developers are: JavaScript, Python, Ruby and Shell.
+   
+   ![image](https://github.com/user-attachments/assets/46142748-cbd4-48b9-868a-14d51e6691e6)
+
