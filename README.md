@@ -6,14 +6,14 @@
 
 - **Generate `users.txt`**:
    - Queried the GitHub API using requests library to find users in Chicago with more than 100 followers.
-   - Saved profile links of qualifying users in `users.txt`, one link per line.
+   - Saved profile links of qualifying users in `users.txt`, one link per line so that I have a consolidated list of all the users that pass the criteria.
 
 - **Create `users.csv`**:
    - For each user in `users.txt`, again using the GitHub API I fetched detailed profile data.
    - Cleaned and standardized fields (e.g., formatted `company` names) and saved to `users.csv`.
 
 - **Generate `repositories.csv`**:
-   - For each user in `users.csv`, fetched up to 500 of their most recently pushed repositories.
+   - For each user in `users.txt`, I fetched up to 500 of their most recently pushed repositories.
    - Stored repository details (e.g., `full_name`, `created_at`, `stargazers_count`, `language`, `license_name`) in `repositories.csv`.
 
 ## 2. The most interesting and surprising fact I found after analyzing the data 📊
