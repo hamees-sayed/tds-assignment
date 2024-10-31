@@ -17,7 +17,10 @@
    - Stored repository details (e.g., `full_name`, `created_at`, `stargazers_count`, `language`, `license_name`) in `repositories.csv`.
 
 ## 2. The most interesting and surprising fact I found after analyzing the data 📊
-The most surprising fact I found after analyzing the data was that 85% of the total users had a wiki, which was unexpected because I thought a lot of people don't maintain a wiki.  
+The most surprising fact I found after analyzing the data was that 85% of the total users had a wiki, which was unexpected because I thought a lot of people don't maintain a wiki.    
+
+![image](https://github.com/user-attachments/assets/1b766d0c-0666-473c-83b8-7c19516369d3)
+
 
 
 ## 3. An actionable recommendation for developers based on my analysis 🦾
@@ -25,5 +28,5 @@ Based on my analysis, actionable recommendations are as follows:
 1. Maintain more meaningful public repositories. Successful developers average 110 public repositories, compared to 90 for others.
 2. Focus on high-impact languages. Top languages among successful developers are: JavaScript, Python, Ruby and Shell.
    
-   ![image](https://github.com/user-attachments/assets/46142748-cbd4-48b9-868a-14d51e6691e6)
+![image](https://github.com/user-attachments/assets/46142748-cbd4-48b9-868a-14d51e6691e6)
 
